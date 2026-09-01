@@ -1,0 +1,15 @@
+{
+	"name": "dfdevdattaazure",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "79260757-bee0-4789-a783-248bc51f7a28",
+		"tenantId": "8a5f9e66-ae6a-4726-b0bb-5fbfe319197f"
+	}
+}
